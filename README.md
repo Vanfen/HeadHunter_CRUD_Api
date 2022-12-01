@@ -16,3 +16,6 @@ Allowed actions:
     
 To successfully run the projects it requires to have database engine running.
 > I was using MSSQL Express - connection string example can be found at DataModels/context.cs (line 22).
+
+To connect to web interface (if on localhost) go to:
+> http://localhost:5000/swagger/index.html
